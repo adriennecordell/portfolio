@@ -119,6 +119,16 @@ a:hover {
     background-color:rgb(111, 134, 116);
     color: white;
 }
+.projectpic5 {
+  float: right;
+  padding:30px;
+  border-style:double;
+    border-color:rgb(57, 71, 57);
+    border-radius: 15px;
+    flex: 50%;
+    background-color:rgb(111, 134, 116);
+    color: white;
+}
 
 
 .my-projects {
